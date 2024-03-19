@@ -1,7 +1,3 @@
-# 👑 CRWN Clothing - An e-commerce built with React
-![Image of Crown Clothing](https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/CRWNClothing/CrownClothing_readme.png)
-<br/><br/>
-
 ## 🎯 About ##
 
 I've [bought this course](https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery) in order to start from the very beginning by learning the basics of React and then going into advanced topics with the purpose of making good decisions on architecture and tools on any of my future ReactJS projects.<br/><br/>
@@ -53,6 +49,3 @@ Here you can find the demo link:
 - [Apollo](https://www.apollographql.com/)
 - [Heroku - Responsible for the deploy](https://www.heroku.com/)
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
